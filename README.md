@@ -1,0 +1,12 @@
+Directory structure:
+└── vikas84214-dsa_arrays_practice/
+    ├── ArraysCC.java
+    ├── ArraysIntro.java
+    ├── BinarySearch.java
+    ├── BuyAndSellStock.java
+    ├── LargestNumber.java
+    ├── MaxSubarraySum.java
+    ├── PairsinArray.java
+    ├── PrintSubarrays.java
+    ├── ReverseArray.java
+    └── TrappingRainWater.java
